@@ -1,3 +1,4 @@
+![Banner de Gabriel Valentim](ChatGPT%20Image%2021%20de%20out.%20de%202026%2C%2019_00_39.png)
 # Olá! 👋 Eu sou Gabriel Valentim
 
 🎓 Estudante de Engenharia da Computação.
