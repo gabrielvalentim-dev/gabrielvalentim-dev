@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Gabriel Valentim
 
-<!--
-**gabrielvalentim-dev/gabrielvalentim-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação.
 
-Here are some ideas to get you started:
+Tenho interesse em **Análise de Dados** e **Engenharia de Dados** e estou desenvolvendo minhas habilidades em programação, começando por Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Atualmente estudando
+
+* Python e lógica de programação
+* Fundamentos de desenvolvimento de software
+* Análise e organização de dados
+
+## 🎯 Meus objetivos
+
+Construir projetos práticos, fortalecer minha base técnica e evoluir na área de dados.
+
+## 🔗 Conecte-se comigo
+
+* GitHub: [@gabrielvalentim-dev](https://github.com/gabrielvalentim-dev)
+
+---
+
+*Este perfil reúne meus estudos, projetos acadêmicos e minha evolução na programação.*
